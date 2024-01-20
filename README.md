@@ -20,7 +20,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,cs,github,html,css,js" />
 </p>
-
-<p align="center">
-  <img src="https://i.ibb.co/zJCdGbf/bannerblock.jpg" width="100%" height="100px"/>
-</p>
