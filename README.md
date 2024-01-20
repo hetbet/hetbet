@@ -5,9 +5,9 @@
   
   👋 Hi, I’m @hetbet!<br>
   👀 I’m interested in the world of IT and technology.<br>
-  📖 I’m currently learning Digital Production, Design and Development.<br>
+  📖 I’m currently studying: Digital Production, Design and Development.<br>
   🚧 I wish to become a web developer one today!<br>
-  📫 You can reach me by contacting me :D
+  😄 You can enjoy my repositiories below...
 
 </div>
 
