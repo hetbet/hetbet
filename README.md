@@ -1,6 +1,6 @@
 <!-- Separator -->
 <p align="center">
-  <img src="https://github.com/hetbet/hetbet/blob/main/bannerblock.jfif?raw=true" width="100%" height="100px"/>
+  <img src="https://github.com/hetbet/hetbet/blob/main/testing2.jpg?raw=true" width="100%" height="100px"/>
 </p>
 
 <!-- Profile -->
