@@ -17,5 +17,5 @@
 <!-- Languages -->
 <h1 align="center">My Interests:</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,cs,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,cs,github,tailwind" />
 </p>
