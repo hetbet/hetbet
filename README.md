@@ -12,10 +12,13 @@
   🚧 I aim to become a web developer!<br />
   😄 You can enjoy my repositories below...
 
-<br>
-
 <!-- Languages -->
 <h1 align="center">My Interests:</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,cs,github,tailwind" />
+</p>
+
+<!-- Separator -->
+<p align="center">
+  <img src="https://github.com/hetbet/hetbet/blob/main/bannerblock.jfif?raw=true" width="100%" height="100px"/>
 </p>
